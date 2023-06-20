@@ -9,11 +9,13 @@
 Looking for an internship program in a company where I could learn under working professionals to gain knowledge and improve my skills while contributing to the company.
 
 ## Academic/Educational Qualification
-| Class | Years       | Institution                         | %      |
-|-------|-------------|-------------------------------------|--------|
-| B.Tech| 2020-24     | Indian Institute of Information Technology, Bhopal | 8.04/10 CGPA |
-| XII   | 2019        | Kiddy’s Corner Higher Secondary School, Gwalior | 84.8% |
-| X     | 2017        | Kendriya Vidhyalaya No. 1, Gwalior     | 9.4/10 CGPA |
+
+ ## Indian Institute of Information Technology, Bhopal 
+  B.Tech (2020-24)
+ ## Kiddy’s Corner Higher Secondary School, Gwalior 
+  12th    2019 
+ ## Kendriya Vidhyalaya No. 1, Gwalior     
+  10th    2017 
 
 ## Extra Curricular Activities
 - Playing Cricket, Badminton, and other sports.
