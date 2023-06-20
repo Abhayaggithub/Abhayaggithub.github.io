@@ -34,6 +34,7 @@ Looking for an internship program in a company where I could learn under working
 - Bootstrap
 - ReactJS
 - MATLAB
+- SQL
 
 ## Strengths
 - Quick Learner
